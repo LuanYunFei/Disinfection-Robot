@@ -3,4 +3,6 @@
 
 We design a new disinfection robotic system with a high-touch area detection method and a dynamic pedestrian avoidance method. Both simulated and real-world experiments are conducted to demonstrate its effectiveness, especially in crowded indoor environments, such as hospitals.
 
+![image](./overview.gif)
+
 We show the entire sanitization process in Sterilization process.mp4 and autonomous avoidance function for pedestrians in avoid-pedestrian.mp4. Video.mp4 is for testing.
